@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="create_account">Create Account</string>
+    <string name="need_account">Need Account ?</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="this_is_main_page">This is main page</string>
+    <string name="log_out">Log Out</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT ?</string>
+    <string name="already_have_an_account">ALREADY HAVE AN ACCOUNT ?</string>
+    <string name="create_a_new_account">Create A New Account</string>
+    <string name="login_to_your_account">Login To Your Account</string>
+    <string name="login">Login</string>
+    <string name="by_swapnil_pawar">By Swapnil Pawar</string>
+    <string name="chatapp">ChatApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="swapnil_pawar">Swapnil Pawar</string>
+    <string name="hi_there_i_am_using_chatapp_by_swapnil">Hi there ! i am using Chatapp by Swapnil</string>
+    <string name="change_status">CHANGE STATUS</string>
+    <string name="change_image">CHANGE IMAGE</string>
+    <string name="all_users">All Users</string>
+    <string name="account_settings">Account Settings</string>
+</resources>
